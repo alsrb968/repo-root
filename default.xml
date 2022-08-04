@@ -6,7 +6,7 @@
   <project path="subtree/subtree-a"
            name="alsrb968/subtree-a.git" remote="origin" />
 
-  <project path="./subtree-b"
+  <project path="subtree/subtree-b"
            name="alsrb968/subtree-a.git" remote="origin" />
 
 </manifest>
